@@ -17,7 +17,7 @@
     border-radius: 5px;
     height: 30px;
     width: 180px;
-   position: absolute;
+    position: absolute;
     font-size: 15px;
 }
 
@@ -31,7 +31,7 @@
     position: relative;
 }
 
-#backspace:hover{
+#backspace:hover {
     cursor: pointer;
 }
 
