@@ -132,6 +132,5 @@
 }
 
 body {
-    width: 80%;
-    max-width: 500px;
+    scale: 1.5;
 }
