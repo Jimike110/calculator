@@ -1,8 +1,9 @@
 .calc {
-    margin: 40px auto;
+    margin: 0px auto;
     background-color: black;
     padding: 5px;
-    width: 260px;
+    width: 80%;
+    max-width: 600px;
     border-radius: 10px;
     box-shadow: 0px 0px 13px 8px rgba(27, 27, 27, 0.2);
 }
