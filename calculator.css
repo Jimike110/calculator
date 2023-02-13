@@ -133,4 +133,6 @@
 
 body {
     scale: 1.5;
+    overflow-y: hidden;
+    overflow-y: hidden;
 }
